@@ -7,9 +7,11 @@ Local Area Networks (LANs) and their core devices, including clients, servers, s
 
 **Lab:** 
 
-Used Packet Tracer's automatic connection type function to connect two branch networks in different locations.
+Used Packet Tracer's automatic connection type function to connect clients, servers, switches, routers, and firewalls. Established connectivity between two branch networks located in New York and Tokyo over the Internet.
 
 
 <img src="images/lab.png" alt="Packet Tracer lab 1 directions">
+
+**Lab Solution:** 
 
 <img src="images/solution.png" alt="Packet Tracer lab 1 solution">
